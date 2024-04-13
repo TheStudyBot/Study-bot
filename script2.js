@@ -40,7 +40,7 @@ function sendMessage(message, sender) {
 function displayStudyMaterials() {
     sendMessage("Here are the study materials for " + selectedChapter + " in " + selectedSubject + ":", "bot");
     sendMessage("Download the written notes: <a href='/path/to/your/written_notes.pdf' download>Download PDF</a>", "bot");
-    sendMessage("Check out the video lectures: <a href='https://www.youtube.com/embed/VIDEO_ID' target='_blank'>Watch Video Lectures</a>", "bot");
+    sendMessage("Check out the video lectures:" <a href='https://www.youtube.com/embed/VIDEO_ID' target='_blank'>Watch Video Lectures</a>, "bot");
 }
 
 function processUserInput(userInput) {
