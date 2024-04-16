@@ -289,8 +289,24 @@ function displayStudyMaterials() {
     const subjectData = subjects[selectedSubject][selectedChapter];
     if (subjectData) {
         sendMessage("Here are the study materials for " + selectedChapter + " in " + selectedSubject + ":", "bot");
-        sendMessage("Download the written notes: <a href='" + subjectData.pdf + "' download>Download PDF</a>", "bot");
-        sendMessage("Check out the video lectures for " + selectedChapter + ": <a href='" + subjectData.video + "' target='_blank'>Watch Video Lectures</a>", "bot");
+        sendMessage("Download the written notes:");
+        // Display PDF links
+        if (Array.isArray(subjectData.pdf)) {
+            subjectData.pdf.forEach(function(pdfLink, index) {
+                sendMessage("<a href='" + pdfLink + "' download>Download PDF " + (index + 1) + "</a>", "bot");
+            });
+        } else {
+            sendMessage("<a href='" + subjectData.pdf + "' download>Download PDF</a>", "bot");
+        }
+        sendMessage("Check out the video lectures:");
+        // Display video links
+        if (Array.isArray(subjectData.video)) {
+            subjectData.video.forEach(function(videoLink, index) {
+                sendMessage("<a href='" + videoLink + "' target='_blank'>Watch Video Lectures " + (index + 1) + "</a>", "bot");
+            });
+        } else {
+            sendMessage("<a href='" + subjectData.video + "' target='_blank'>Watch Video Lectures</a>", "bot");
+        }
     } else {
         sendMessage("Sorry, study materials for " + selectedChapter + " in " + selectedSubject + " are not available.", "bot");
     }
@@ -298,6 +314,7 @@ function displayStudyMaterials() {
     selectedChapter = "";
     displayWelcomeMessage();
 }
+
 
 function displayWelcomeMessage() {
     var welcomeMessage = "Welcome to Rancho The Bot! Please select a subject from the following list:";
