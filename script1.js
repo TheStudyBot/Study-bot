@@ -127,7 +127,6 @@ const subjects = {
         },
         "U-6: Multiple Integrals and their Applications": {
             "pdf": ["/path/to/sme/chapter_6_notes.pdf"],
-            "video": ["https://www.youtube.com/embed/VIDEO_ID_6"]"pdf": ["/path/to/sme/chapter_6_notes.pdf",],
             "video": ["https://www.youtube.com/embed/VIDEO_ID_6"]
         }
     },
