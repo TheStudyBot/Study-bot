@@ -40,7 +40,7 @@ const subjects = {
             "video": "https://www.youtube.com/embed/VIDEO_ID_3"
         },
         "U-4: Semiconductor Physics": {
-            "PDF NOTES 1": "Study-bot/unit-4-PHY-notes.pdf",
+            "PDF NOTES 1": "https://github.com/TheStudyBot/Study-bot/blob/main/PDFs/unit-4-PHY-notes.pdf",
 	    "PDF NOTES 2": "unit-4-PHY-notes2.pdf",
             "video": "https://www.youtube.com/embed/VIDEO_ID_4"
         },
