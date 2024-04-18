@@ -40,7 +40,7 @@ const subjects = {
             "video": ["https://www.youtube.com/embed/VIDEO_ID_3"]
         },
         "U-4: Semiconductor Physics": {
-            "pdf": ["/path/to/physics/chapter_4_notes.pdf"],
+            "pdf": ["PDFs/unit-4-PHY-notes.pdf"],
             "video": ["https://youtube.com/playlist?list=PLQzUXa8lZVq8lfZN5836sohUpRCt2b6oB&si=-1fJv4mnxmMWTci6"]
         },
         "U-5: Magnetism and Superconductivity": {
