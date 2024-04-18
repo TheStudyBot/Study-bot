@@ -41,7 +41,7 @@ const subjects = {
         },
         "U-4: Semiconductor Physics": {
             "pdf": ["PDFs/unit-4-PHY-notes.pdf"],
-            "video": ["https://youtube.com/playlist?list=PLQzUXa8lZVq8lfZN5836sohUpRCt2b6oB&si=-1fJv4mnxmMWTci6"]
+            "video": ["https://youtube.com/playlist?list=PLQzUXa8lZVq8lfZN5836sohUpRCt2b6oB&si=MZ7pesmEgM-70w3f"]
         },
         "U-5: Magnetism and Superconductivity": {
             "pdf": ["/path/to/physics/chapter_5_notes.pdf"],
