@@ -2,27 +2,27 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('pexels-polina-zimmerman-3747468.jpg'); /* Change the background image URL */
+    background-image: url('body.png'); /* Change the background image URL */
     background-size: cover;
     background-position: center;
     /* Add other background styles as needed */
 }
 /* Header Styles */
 .header {
-    background-color: rgba(200,200,200,0.8); /* Green color, you can change it to your preference */
+    background-color: rgba(255,255,255,0.9); /* Green color, you can change it to your preference */
     padding: 20px;
     text-align: center;
-	margin: 10px;
-	border-radius: 10px;
+    margin: 10px;
+    border-radius: 10px;
 }
 
 .header-title {
-    color: #DEB887; /* White color for the title text */
+    color: rgba(0,0,0,0.8); /* White color for the title text */
 	font-family: Arial black;
-    margin: 0;
+   	margin: 0;
 	font-size: 50px;
 	letter-spacing: 3px;
-	text-shadow: 3px 3px grey;
+	text-shadow: 3px 3px 3px grey;
 }
 
 .chat-container {
