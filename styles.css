@@ -179,9 +179,12 @@ img{
 }
 /* Adjustments for smaller screens */
 @media only screen and (max-width: 768px) {
-    .sidebar,
     .sidebar-right {
         width: 90%;
+        margin-right: 0px;
+    }
+     .sidebar {
+	width: 90%;
         margin-right: 0px;
     }
 
