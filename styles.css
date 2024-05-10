@@ -182,14 +182,13 @@ img{
     .sidebar,
     .sidebar-right {
         width: 90%;
-	height: 13%;
         margin-right: 0px;
     }
 
     .chat-box {
         margin-right: 0px;
         margin-bottom: 20px;
-	font-size: 12px;
+	font-size: 11px;
 	
     }
 
