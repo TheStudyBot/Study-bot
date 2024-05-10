@@ -181,12 +181,12 @@ img{
 @media only screen and (max-width: 768px) {
     .sidebar,
     .sidebar-right {
-        width: 95%;
+        width: 75%;
         margin-right: 0px;
     }
 
     .chat-box {
-        margin-right: 0;
+        margin: 0 auto;
         margin-bottom: 20px;
     }
 
