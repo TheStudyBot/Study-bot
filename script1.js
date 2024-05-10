@@ -9,19 +9,19 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLmTjAoVV0TJlOeyVYGdkRzbMKB3leCWpN&si=qh6Mit9MJRjSHkHH","https://youtube.com/playlist?list=PLruTCQ0dsWzGPh0aFshDtOYbZwpky8D8C&si=YVjT8GYe4cB5nMir"]
 			},
 			"U-3: Equilibrium": {
-				"pdf": ["/path/to/mechanics/chapter_3_notes.pdf"],
+				"pdf": ["PDFs/Notes_ EM Unit 3 (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLruTCQ0dsWzFbSGyWh3Sf6OXoOl_nTGOw&si=bEbBe0XzL9d7IrvQ"]
 			},
 			"U-4: Analysis of Structures": {
-				"pdf": ["/path/to/mechanics/chapter_4_notes.pdf"],
+				"pdf": ["PDFs/Notes_ EM Unit 4 (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLmTjAoVV0TJktQLvQ3NUwChBdDhTrktt3&si=SRRgfCqY1ZnAp1cw"]
 			},
 			"U-5: Kinematics of Particle": {
-				"pdf": ["/path/to/mechanics/chapter_5_notes.pdf"],
+				"pdf": ["PDFs/Notes_ EM Unit 5 (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLruTCQ0dsWzE0u8JMLzT-GkBk2C_yVNGe&si=sdt--jZThv-nGxvX","https://youtu.be/KnfGyKOppEY?si=meYZbrwArEWEyGmF"]
 			},
 			"U-6: Kinetics of Particle": {
-				"pdf": ["/path/to/mechanics/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/Notes_ EM Unit 6 (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9jJa-nWXWsY-XbxvQATW8i4&si=wwpaA0Jow6jZvg_7"]
 			}
         // Add other chapters here
@@ -36,19 +36,19 @@ const subjects = {
 				"video": ["https://youtu.be/ntTjTsiZ478?si=qMJui2mzbHO73TIo","https://youtu.be/gurGd_GPJvo?si=jGTjrvSxWqk3ktMd", "https://youtu.be/wOyVaF-DG4A?si=wGykM4f6tZriUAkf"]
 			},
 			"U-3: Quantum Mechanics": {
-				"pdf": ["/path/to/physics/chapter_3_notes.pdf"],
+				"pdf": ["PDFs/PHY (UNIT-3) (NOTEs) .pdf"],
 				"video": ["https://youtube.com/playlist?list=PLQzUXa8lZVq8Zciw0MsOdPJ1t-bpPKV6_&si=qebU4bRydDmprv-X","https://youtube.com/playlist?list=PLTYLC3XcJGZ5D3ohTYfOIR39L-H69f9Ca&si=twnqMiOHJbsaaZ1K"]
 			},
 			"U-4: Semiconductor Physics": {
-				"pdf": ["PDFs/unit-4-PHY-notes.pdf"],
+				"pdf": ["PDFs/UNIT 4 - Notes - Semiconductor (Physics).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLQzUXa8lZVq8lfZN5836sohUpRCt2b6oB&si=-1fJv4mnxmMWTci6","https://youtube.com/playlist?list=PLF_SObSnxBuADyqN76R-9cB7VOE33QZq6&si=MTu4zLVyjqMWUfjR"]
 			},
 			"U-5: Magnetism and Superconductivity": {
-				"pdf": ["/path/to/physics/chapter_5_notes.pdf"],
+				"pdf": ["PDFs/PHY(UNIT-5)(NOTEs).pdf"],
 				"video": ["https://youtu.be/UxCj8La7XWY?si=Fj7VSX-NCX7JS63L"]
 			},
 			"U-6: Non Destructive Testing and Nanotechnology": {
-				"pdf": ["/path/to/physics/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/PHY(UNIT-6)(NOTEs).pdf"],
 				"video": ["https://youtu.be/M_Z1Z_5lgy8?si=LzCHljGwVi3pMJKs", "https://youtu.be/yPpMpHx6v4g?si=TIbVs84Tav7ctDBJ"]
 			}
 		},
@@ -140,19 +140,19 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLAcdVFEsjGl5rold8-2d1EAQS2DPtIb1r&si=pmI6W5itIfGhm8l6"]
 			},
 			"U-3: Single Phase AC Circuits": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BEE unit 3 study notes.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLAcdVFEsjGl6RESrJSWixEy-qSxdU5Vf9&si=vdXZQl584xnLl3a6", "https://youtu.be/2BiKOXPbN4Q?si=r7BFGemKUTezNeuB"]
 			},
 			"U-4: Polyphase A.C. Circuits and Single phase Transformers": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BEE UNIT 4 STUDY NOTES.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLAcdVFEsjGl4P5dndwI7QtxNFQTtZReev&si=96BtFZzowxvLWpSS", "https://youtu.be/9twFMfmAvTo?si=TJtneGb8QoiCpn0c"]
 			},
 			"U-5: DC Circuits": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BEE unit 5 study notes.pdf"],
 				"video": ["https://youtu.be/BPFfoNAKRW8?si=4ZZ_DKufkCDDk-K2", "https://youtu.be/U0AErRqVvKE?si=yvGuYX36m8i8MIzI"]
 			},
 			"U-6: Work, Power, Energy and Batteries": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BEE unit 6 Study notes.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLyIqv0Q_BYJoLA4fSODJFPubOOeuuFkEh&si=lvhZjEClX4ymLTz_", "https://youtu.be/qsKcO4r6JS4?si=90plFoLtwNdgtiWd"]
 			}
 		},
@@ -166,19 +166,19 @@ const subjects = {
 				"video": ["https://www.youtube.com/embed/VIDEO_ID_6"]
 			},
 			"U-3: Number System and Logic Gates": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BXE-Notes-Unit-III_Number System & Logic Gates.pdf"],
 				"video": ["https://youtu.be/xasGaAjSslE?si=posb_Paz0gCjHDdN", "https://youtube.com/playlist?list=PLyIqv0Q_BYJqd01QSZYq0mAgRbqxuPCgd&si=uXAt0VSy1mPl7vGi"]
 			},
 			"U-4: Electronic Instrumentation": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BXE-Notes-Unit-IV_Electronic Instrumentation.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLyIqv0Q_BYJr3-Cxn9blbevZJ_KkKYlIk&si=BREibc3AD1f42nh-"]
 			},
 			"U-5: Sensors": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BXE-Notes-Unit-V_Sensors.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLyIqv0Q_BYJohdbYoytcq8NJIBcz67CJs&si=j4U-cGZcw-lF3UjL"]
 			},
 			"U-6: Communication Systems": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BXE-Notes-Unit-VI_Communication Systems.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLyIqv0Q_BYJpy-y5t4YyJtVPFJx8GDDS4&si=2GWOFkmEee3JkaIa"]
 			}
 		},
@@ -218,19 +218,19 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLd7N30uyFAC65buPzxHdZsj-8EbSpZfTz&si=F0He0ibG5kTDf1we"]
 			},
 			"U-3: Engineering Materials": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/chemistry unit3 study note.pdf"],
 				"video": ["https://youtu.be/IEty1x10cBk?si=TuepjfdSfqZ46sx4","https://youtube.com/playlist?list=PLyIqv0Q_BYJqifo5eH9d8DqZZNw_1u_er&si=R6oW2mw9vPFwHu_P"]
 			},
 			"U-4: Fuels": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/chemistry unit 4 study notes.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLLf6O8XdGj00RTPIi8Gn0zXuaaZvcUDj4&si=7LYXir81B55XIGkh","https://youtube.com/playlist?list=PLyIqv0Q_BYJozBbh6v9-1TpmxtyeV3iDm&si=WTuruAeznAU_G45D","https://youtube.com/playlist?list=PLd7N30uyFAC4L43cEtMMlGZkILI5f9IX9&si=oxLXUmNu9g559GAd"]
 			},
 			"U-5: Spectroscopic Techniques": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/Chemistry Unit 5 study note.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLLf6O8XdGj03ktP4MHmIV87pHZHBEUF6f&si=p_dUcelDkjmBtQCE","https://youtube.com/playlist?list=PLyIqv0Q_BYJo6qe0AB5_j-VRrwXvCYzkE&si=c5vMnw8o-h1XG7RN", "https://youtu.be/n5mTS2UFlO8?si=7OzfOk_K0M_7xhea"]
 			},
 			"U-6: Corrosion Science": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/chemistry unit 6 study notes.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLLf6O8XdGj00lVydanLfC6bcT4aXGJN4V&si=ktwJiatgOfIbBWQb","https://youtube.com/playlist?list=PLyIqv0Q_BYJorMomddRJcSjw1jZgsZCLk&si=zm41mbEtx4M84FJp"]
 			}
 		},
@@ -244,19 +244,19 @@ const subjects = {
 				"video": ["https://youtu.be/PbF_5kp9ypI?si=f_GXC0k4W13slAhx"]
 			},
 			"U-3: Functions and Modules": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/PPS UNIT 3 STUDY NOTE.pdf"],
 				"video": ["https://youtu.be/jhE9nwl7jDM?si=5yPXjk3B_MebTdem"]
 			},
 			"U-4: Strings": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/PPS UNIT 4 STUDY NOTE.pdf"],
 				"video": ["https://youtu.be/uaQFv9b4-sk?si=spPHB9riR46qCreP"]
 			},
 			"U-5: Object Oriented Programming": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/PPS UNIT 5 STUDY NOTE.pdf"],
 				"video": ["https://youtu.be/UmnrSbMOR-0?si=tCK_0KbqoMzud4YZ"]
 			},
 			"U-6: File Handling and Dictionaries": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/PPS UNIT 6 STUDY NOTE.pdf"],
 				"video": ["https://youtu.be/sAOWFwm6MxU?si=G_3XyftP0cOxC0kE"]
 			}	
 		}
