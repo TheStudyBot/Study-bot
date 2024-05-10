@@ -181,7 +181,7 @@ img{
 @media only screen and (max-width: 768px) {
     .sidebar,
     .sidebar-right {
-        width: 75%;
+        width: 90%;
         margin-right: 0px;
     }
 
