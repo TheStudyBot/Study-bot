@@ -310,7 +310,7 @@ function displayStudyMaterials() {
 
 1
 function displayWelcomeMessage() {
-    var welcomeMessage = "<b>The Study Bot</b> welcomes you! Here you can get the notes to any Subject/Unit in just two simple steps - 1) Type the <mark>name of the subject</mark> & 2)Type the <mark>number of the unit.</mark> Please select a subject from the following list:";
+    var welcomeMessage = "<b>The Study Bot</b> welcomes you! 1) Type the <mark>name of the subject</mark> & 2)Type the <mark>number of the unit.</mark> Please select a subject:";
     welcomeMessage += "<ol>";
     for (var subject in subjects) {
         welcomeMessage += "<li>" + subject + "</li>";
