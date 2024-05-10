@@ -36,7 +36,7 @@ const subjects = {
 				"video": ["https://youtu.be/ntTjTsiZ478?si=qMJui2mzbHO73TIo","https://youtu.be/gurGd_GPJvo?si=jGTjrvSxWqk3ktMd", "https://youtu.be/wOyVaF-DG4A?si=wGykM4f6tZriUAkf"]
 			},
 			"U-3: Quantum Mechanics": {
-				"pdf": ["/path/to/physics/chapter_3_notes.pdf"],
+				"pdf": ["PDFs/PHY (UNIT-3) (NOTEs) .pdf"],
 				"video": ["https://youtube.com/playlist?list=PLQzUXa8lZVq8Zciw0MsOdPJ1t-bpPKV6_&si=qebU4bRydDmprv-X","https://youtube.com/playlist?list=PLTYLC3XcJGZ5D3ohTYfOIR39L-H69f9Ca&si=twnqMiOHJbsaaZ1K"]
 			},
 			"U-4: Semiconductor Physics": {
@@ -44,11 +44,11 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLQzUXa8lZVq8lfZN5836sohUpRCt2b6oB&si=-1fJv4mnxmMWTci6","https://youtube.com/playlist?list=PLF_SObSnxBuADyqN76R-9cB7VOE33QZq6&si=MTu4zLVyjqMWUfjR"]
 			},
 			"U-5: Magnetism and Superconductivity": {
-				"pdf": ["/path/to/physics/chapter_5_notes.pdf"],
+				"pdf": ["PDFs/PHY(UNIT-5)(NOTEs).pdf"],
 				"video": ["https://youtu.be/UxCj8La7XWY?si=Fj7VSX-NCX7JS63L"]
 			},
 			"U-6: Non Destructive Testing and Nanotechnology": {
-				"pdf": ["/path/to/physics/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/PHY(UNIT-6)(NOTEs).pdf"],
 				"video": ["https://youtu.be/M_Z1Z_5lgy8?si=LzCHljGwVi3pMJKs", "https://youtu.be/yPpMpHx6v4g?si=TIbVs84Tav7ctDBJ"]
 			}
 		},
@@ -244,19 +244,19 @@ const subjects = {
 				"video": ["https://youtu.be/PbF_5kp9ypI?si=f_GXC0k4W13slAhx"]
 			},
 			"U-3: Functions and Modules": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/PPS UNIT 3 STUDY NOTE.pdf"],
 				"video": ["https://youtu.be/jhE9nwl7jDM?si=5yPXjk3B_MebTdem"]
 			},
 			"U-4: Strings": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/PPS UNIT 4 STUDY NOTE.pdf"],
 				"video": ["https://youtu.be/uaQFv9b4-sk?si=spPHB9riR46qCreP"]
 			},
 			"U-5: Object Oriented Programming": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/PPS UNIT 5 STUDY NOTE.pdf"],
 				"video": ["https://youtu.be/UmnrSbMOR-0?si=tCK_0KbqoMzud4YZ"]
 			},
 			"U-6: File Handling and Dictionaries": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/PPS UNIT 6 STUDY NOTE.pdf"],
 				"video": ["https://youtu.be/sAOWFwm6MxU?si=G_3XyftP0cOxC0kE"]
 			}	
 		}
