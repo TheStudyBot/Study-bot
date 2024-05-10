@@ -166,7 +166,7 @@ const subjects = {
 				"video": ["https://www.youtube.com/embed/VIDEO_ID_6"]
 			},
 			"U-3: Number System and Logic Gates": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BXE-Notes-Unit-III_Number System & Logic Gates.pdf"],
 				"video": ["https://youtu.be/xasGaAjSslE?si=posb_Paz0gCjHDdN", "https://youtube.com/playlist?list=PLyIqv0Q_BYJqd01QSZYq0mAgRbqxuPCgd&si=uXAt0VSy1mPl7vGi"]
 			},
 			"U-4: Electronic Instrumentation": {
@@ -174,7 +174,7 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLyIqv0Q_BYJr3-Cxn9blbevZJ_KkKYlIk&si=BREibc3AD1f42nh-"]
 			},
 			"U-5: Sensors": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BXE-Notes-Unit-V_Sensors.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLyIqv0Q_BYJohdbYoytcq8NJIBcz67CJs&si=j4U-cGZcw-lF3UjL"]
 			},
 			"U-6: Communication Systems": {
