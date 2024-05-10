@@ -21,7 +21,7 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLruTCQ0dsWzE0u8JMLzT-GkBk2C_yVNGe&si=sdt--jZThv-nGxvX","https://youtu.be/KnfGyKOppEY?si=meYZbrwArEWEyGmF"]
 			},
 			"U-6: Kinetics of Particle": {
-				"pdf": ["/path/to/mechanics/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/EM_unit_6.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9jJa-nWXWsY-XbxvQATW8i4&si=wwpaA0Jow6jZvg_7"]
 			}
         // Add other chapters here
