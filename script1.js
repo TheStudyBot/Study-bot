@@ -305,7 +305,6 @@ function displayStudyMaterials() {
     }
     selectedSubject = "";
     selectedChapter = "";
-    displayWelcomeMessage();
 }
 
 1
