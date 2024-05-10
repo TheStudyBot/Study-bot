@@ -1,0 +1,179 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('6.jpg'); /* Change the background image URL */
+    background-size: cover;
+    background-position: center;
+	background-repeat: no-repeat; 
+    /* Add other background styles as needed */
+}
+/* Header Styles */
+/* Assuming the header element has an ID of "header" */
+.header {
+    /*background-image: url('apollo-high-resolution-logo.png'); /* Replace '/path/to/your/image.jpg' with the actual path to your image */
+	background-color: #77D4FC; 
+	background-repeat: no-repeat;
+	background-size: 100%; /* Adjust the size of the background image to contain within the header */
+    background-position: center;
+    height: 80px; /* Adjust the height as needed */
+	width:35%;
+    color: rgba(0,0,0,0.8); /* Set text color to white for better visibility */
+    text-align: center; /* Center align the text */
+    padding: 10px; /* Add padding to vertically center the text */
+	border-radius: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	
+}
+.header a{
+	text-decoration: none;
+}
+
+.header:hover{
+	background-color: #7FFFD4;
+}
+
+.header-title {
+    
+	font-family: Arial black;
+    margin: 0;
+	color: white;
+	font-size: 50px;
+	letter-spacing: 3px;
+	text-shadow: 2px 2px 1px black;
+}
+
+.col{
+	color: white;
+	font-family: Arial Black;
+}
+.container {
+	display: flex;
+}
+.chat-container {
+    margin: 0 auto;
+	height: 715px;
+    max-width: 800px;
+    flex-grow: 1;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7); /* Example background color for the container */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	margin-bottom: 10px;
+	
+}
+
+#chat-box {
+    height: 475px; /* Example height for the chat box */
+    overflow-y: auto;
+	font-size: 18px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.9); /* Example background color for the chat box */
+}
+
+.chat-message-container {
+    margin-bottom: 10px;
+}
+
+.chat-message {
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    max-width: 100%; /* Adjusted width */
+}
+
+.user {
+    background-color: orange; /* Example background color for user messages */
+    align-self: flex-start;
+}
+
+.bot {
+    background-color: #e1fffe; /* Example background color for bot messages */
+    align-self: flex-end;
+}
+
+
+input[type="text"] {
+    padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	font-size: 16px;
+	margin: 5px;
+	width: 45%;
+	
+}
+
+button {
+    width: 60px;
+    padding: 10px;
+    margin-top: 10px;
+	margin-left: 0;
+    background-color: #77D4FC;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.sidebar {
+	width: 44%;
+	height: 15%;
+	opacity: 0.9;
+	float: left;
+    margin-bottom: 7px;
+    background-color: #77D4FC;
+    padding: 20px;
+	border-radius: 5px;
+}
+.sidebar h2 {
+    margin-top: 0;
+}
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+.sidebar li {
+    margin-bottom: 10px;
+}
+.sidebar a {
+    text-decoration: none;
+    color: #333;
+}
+.sidebar a:hover {
+    color: white;
+}
+.sidebar-right {
+	width: 44%;
+	opacity: 0.9;
+	height: 15%;
+	float: right;
+    margin-bottom: 7px;
+    background-color: #77D4FC;
+    padding: 20px;
+	border-radius: 5px;
+}
+.sidebar-right h2 {
+    margin-top: 0;
+}
+.sidebar-right ul {
+    list-style-type: none;
+    padding: 0;
+}
+.sidebar-right li {
+    margin-bottom: 10px;
+}
+.sidebar-right a {
+    text-decoration: none;
+    color: #333;
+}
+.sidebar-right a:hover {
+    color: white;
+}
+img{
+	border-radius: 10%;
+}
