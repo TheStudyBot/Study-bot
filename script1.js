@@ -140,19 +140,19 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLAcdVFEsjGl5rold8-2d1EAQS2DPtIb1r&si=pmI6W5itIfGhm8l6"]
 			},
 			"U-3: Single Phase AC Circuits": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BEE unit 3 study notes.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLAcdVFEsjGl6RESrJSWixEy-qSxdU5Vf9&si=vdXZQl584xnLl3a6", "https://youtu.be/2BiKOXPbN4Q?si=r7BFGemKUTezNeuB"]
 			},
 			"U-4: Polyphase A.C. Circuits and Single phase Transformers": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BEE UNIT 4 STUDY NOTES.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLAcdVFEsjGl4P5dndwI7QtxNFQTtZReev&si=96BtFZzowxvLWpSS", "https://youtu.be/9twFMfmAvTo?si=TJtneGb8QoiCpn0c"]
 			},
 			"U-5: DC Circuits": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BEE unit 5 study notes.pdf"],
 				"video": ["https://youtu.be/BPFfoNAKRW8?si=4ZZ_DKufkCDDk-K2", "https://youtu.be/U0AErRqVvKE?si=yvGuYX36m8i8MIzI"]
 			},
 			"U-6: Work, Power, Energy and Batteries": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BEE unit 6 Study notes.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLyIqv0Q_BYJoLA4fSODJFPubOOeuuFkEh&si=lvhZjEClX4ymLTz_", "https://youtu.be/qsKcO4r6JS4?si=90plFoLtwNdgtiWd"]
 			}
 		},
@@ -170,7 +170,7 @@ const subjects = {
 				"video": ["https://youtu.be/xasGaAjSslE?si=posb_Paz0gCjHDdN", "https://youtube.com/playlist?list=PLyIqv0Q_BYJqd01QSZYq0mAgRbqxuPCgd&si=uXAt0VSy1mPl7vGi"]
 			},
 			"U-4: Electronic Instrumentation": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BXE-Notes-Unit-IV_Electronic Instrumentation.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLyIqv0Q_BYJr3-Cxn9blbevZJ_KkKYlIk&si=BREibc3AD1f42nh-"]
 			},
 			"U-5: Sensors": {
@@ -178,7 +178,7 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLyIqv0Q_BYJohdbYoytcq8NJIBcz67CJs&si=j4U-cGZcw-lF3UjL"]
 			},
 			"U-6: Communication Systems": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/BXE-Notes-Unit-VI_Communication Systems.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLyIqv0Q_BYJpy-y5t4YyJtVPFJx8GDDS4&si=2GWOFkmEee3JkaIa"]
 			}
 		},
