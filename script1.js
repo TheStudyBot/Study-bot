@@ -218,19 +218,19 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLd7N30uyFAC65buPzxHdZsj-8EbSpZfTz&si=F0He0ibG5kTDf1we"]
 			},
 			"U-3: Engineering Materials": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/chemistry unit3 study note.pdf"],
 				"video": ["https://youtu.be/IEty1x10cBk?si=TuepjfdSfqZ46sx4","https://youtube.com/playlist?list=PLyIqv0Q_BYJqifo5eH9d8DqZZNw_1u_er&si=R6oW2mw9vPFwHu_P"]
 			},
 			"U-4: Fuels": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/chemistry unit 4 study notes.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLLf6O8XdGj00RTPIi8Gn0zXuaaZvcUDj4&si=7LYXir81B55XIGkh","https://youtube.com/playlist?list=PLyIqv0Q_BYJozBbh6v9-1TpmxtyeV3iDm&si=WTuruAeznAU_G45D","https://youtube.com/playlist?list=PLd7N30uyFAC4L43cEtMMlGZkILI5f9IX9&si=oxLXUmNu9g559GAd"]
 			},
 			"U-5: Spectroscopic Techniques": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/Chemistry Unit 5 study note.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLLf6O8XdGj03ktP4MHmIV87pHZHBEUF6f&si=p_dUcelDkjmBtQCE","https://youtube.com/playlist?list=PLyIqv0Q_BYJo6qe0AB5_j-VRrwXvCYzkE&si=c5vMnw8o-h1XG7RN", "https://youtu.be/n5mTS2UFlO8?si=7OzfOk_K0M_7xhea"]
 			},
 			"U-6: Corrosion Science": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/chemistry unit 6 study notes.pdf"],
 				"video": ["https://youtube.com/playlist?list=PLLf6O8XdGj00lVydanLfC6bcT4aXGJN4V&si=ktwJiatgOfIbBWQb","https://youtube.com/playlist?list=PLyIqv0Q_BYJorMomddRJcSjw1jZgsZCLk&si=zm41mbEtx4M84FJp"]
 			}
 		},
