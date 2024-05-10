@@ -191,12 +191,12 @@ img{
     }
 
     #user-input {
-        width: calc(100% - 120px);
+        width: calc(100% - 160px);
         margin-right: 10px;
     }
 
     button {
-        width: 100px;
+        width: 90px;
     }
 
     .header-title {
