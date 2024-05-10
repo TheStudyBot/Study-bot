@@ -310,7 +310,7 @@ function displayStudyMaterials() {
 
 1
 function displayWelcomeMessage() {
-    var welcomeMessage = "<b>The Study Bot</b> welcomes you! 1) Type the <mark>name of the subject</mark> & 2)Type the <mark>number of the unit.</mark> Please select a subject:";
+    var welcomeMessage = "<b>The Study Bot</b> welcomes you! 1)Type the <mark>name of the subject</mark> & 2)Type the <mark>number of the unit.</mark> Please select a subject:";
     welcomeMessage += "<ol>";
     for (var subject in subjects) {
         welcomeMessage += "<li>" + subject + "</li>";
