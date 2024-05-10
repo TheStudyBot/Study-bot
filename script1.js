@@ -80,7 +80,7 @@ const subjects = {
 		},
 	"M1": {
 			"U-1: Differential Calculus": {
-				"PDFs/M1 in 15 pages only (1).pdf"],
+				"pdf":	 ["PDFs/M1 in 15 pages only (1).pdf"],
 				"video": ["https://youtu.be/a8RiOyvbhQY?si=O-lw_IdV_IaqQXR4"]
 			},
 			"U-2: Fourier Series": {
