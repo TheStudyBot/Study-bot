@@ -122,7 +122,7 @@ button {
 }
 .sidebar {
 	width: 44%;
-	height: 15%;
+	height: 13%;
 	opacity: 0.9;
 	float: left;
     margin-bottom: 7px;
@@ -150,7 +150,7 @@ button {
 .sidebar-right {
 	width: 44%;
 	opacity: 0.9;
-	height: 15%;
+	height: 13%;
 	float: right;
     margin-bottom: 7px;
     background-color: #77D4FC;
@@ -186,9 +186,9 @@ img{
     }
 
     .chat-box {
-        margin: 0 auto;
+        margin-right: 0;
         margin-bottom: 20px;
-	font-size: 14px;
+	font-size: 12px;
     }
 
     #user-input {
