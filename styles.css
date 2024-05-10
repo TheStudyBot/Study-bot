@@ -177,31 +177,36 @@ button {
 img{
 	border-radius: 10%;
 }
+/* Adjustments for smaller screens */
 @media only screen and (max-width: 768px) {
     .sidebar,
     .sidebar-right {
         width: 100%;
-        text-align: center;
         margin-right: 0;
     }
 
     .chat-box {
-        flex: 1;
         margin-right: 0;
         margin-bottom: 20px;
     }
 
     #user-input {
-        width: calc(100% - 20px);
+        width: calc(100% - 120px);
         margin-right: 10px;
     }
 
     button {
-        width: calc(100% - 20px);
-        margin-left: 10px;
+        width: 100px;
     }
 
     .header-title {
         font-size: 24px;
     }
+}
+/* Positioning the marquee at the bottom */
+#marq {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
 }
