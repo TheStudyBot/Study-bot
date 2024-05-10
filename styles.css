@@ -205,7 +205,6 @@ img{
 }
 /* Positioning the marquee at the bottom */
 #marq {
-    position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
