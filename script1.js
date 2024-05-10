@@ -80,53 +80,53 @@ const subjects = {
 		},
 	"M1": {
 			"U-1: Differential Calculus": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"PDFs/M1 in 15 pages only (1).pdf"],
 				"video": ["https://youtu.be/a8RiOyvbhQY?si=O-lw_IdV_IaqQXR4"]
 			},
 			"U-2: Fourier Series": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/M1 in 15 pages only (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9garIMWIqgAJ6wqBUe4ckFm&si=RrCBDd_WKWRB6CtJ"]
 			},
 			"U-3: Partial Differentiation": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/M1 in 15 pages only (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9iRoyhs8V1Io-xEsjfq4zI0&si=jg9NqbnBhfrHqFrV"]
 			},
 			"U-4: Applications of Partial Differentiation": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/M1 in 15 pages only (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9jGYtDASFkIevQa_QTC-pWw&si=gElyan6221a-ckVh"]
 			},
 			"U-5: Linear Algebra-Matrices, System of Linear Equations": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/M1 in 15 pages only (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9hrAN4SOKYZdyUnpoEciMHj&si=Tocto64iF_jugMeD"]
 			},
 			"U-6: Linear Algebra-Eigen Values and Eigen Vectors, Diagonaliztion": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/M1 in 15 pages only (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9jPn19ja8WFf6VRlPspl4eQ&si=JDrFh9_cRSjvV9WO"]
 			}
 		},
 	"M2": {
 			"U-1: First Order Ordinary differential Equations": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/M2 HandBook .pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9g0aergP43HK9ihc_UG7Kbx&si=clLr4VccT1l31eGx"]
 			},
 			"U-2: Applications of Differential Equations": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/M2 HandBook .pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9juyFTI3lpeXXhIetVB00cr&si=UjfpmkY8QVycHqZf"]
 			},
 			"U-3: Integral Calculus": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/M2 HandBook .pdf"],
 				"video": ["https://youtu.be/PTTdBGxm0N4?si=NzgUNDRNxNZPNwQA"]
 			},
 			"U-4: Curve Tracing": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/M2 HandBook .pdf"],
 				"video": ["https://youtube.com/playlist?list=PLruTCQ0dsWzFAoaiewnZzFhhnA_QGXIQL&si=Abv_AqOvtU9QqrGN"]
 			},
 			"U-5: Solid Geometry": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/M2 HandBook .pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9jiJl9JkRHGUyT6uTyvCuaW&si=6mziqEkrG3RKNfdm"]
 			},
 			"U-6: Multiple Integrals and their Applications": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/M2 HandBook .pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9iJduBlC3tcC6RN2TvUwAno&si=yimCIEsc1RxoUmTJ"]
 			}
 		},
