@@ -21,7 +21,7 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLruTCQ0dsWzE0u8JMLzT-GkBk2C_yVNGe&si=sdt--jZThv-nGxvX","https://youtu.be/KnfGyKOppEY?si=meYZbrwArEWEyGmF"]
 			},
 			"U-6: Kinetics of Particle": {
-				"pdf": ["PDFs/EM_unit_6.pdf"],
+				"pdf": ["PDFs/Notes_ EM Unit 6 (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLT3bOBUU3L9jJa-nWXWsY-XbxvQATW8i4&si=wwpaA0Jow6jZvg_7"]
 			}
         // Add other chapters here
@@ -40,7 +40,7 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLQzUXa8lZVq8Zciw0MsOdPJ1t-bpPKV6_&si=qebU4bRydDmprv-X","https://youtube.com/playlist?list=PLTYLC3XcJGZ5D3ohTYfOIR39L-H69f9Ca&si=twnqMiOHJbsaaZ1K"]
 			},
 			"U-4: Semiconductor Physics": {
-				"pdf": ["PDFs/unit-4-PHY-notes.pdf"],
+				"pdf": ["PDFs/UNIT 4 - Notes - Semiconductor (Physics).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLQzUXa8lZVq8lfZN5836sohUpRCt2b6oB&si=-1fJv4mnxmMWTci6","https://youtube.com/playlist?list=PLF_SObSnxBuADyqN76R-9cB7VOE33QZq6&si=MTu4zLVyjqMWUfjR"]
 			},
 			"U-5: Magnetism and Superconductivity": {
