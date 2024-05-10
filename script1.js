@@ -9,15 +9,15 @@ const subjects = {
 				"video": ["https://youtube.com/playlist?list=PLmTjAoVV0TJlOeyVYGdkRzbMKB3leCWpN&si=qh6Mit9MJRjSHkHH","https://youtube.com/playlist?list=PLruTCQ0dsWzGPh0aFshDtOYbZwpky8D8C&si=YVjT8GYe4cB5nMir"]
 			},
 			"U-3: Equilibrium": {
-				"pdf": ["/path/to/mechanics/chapter_3_notes.pdf"],
+				"pdf": ["PDFs/Notes_ EM Unit 3 (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLruTCQ0dsWzFbSGyWh3Sf6OXoOl_nTGOw&si=bEbBe0XzL9d7IrvQ"]
 			},
 			"U-4: Analysis of Structures": {
-				"pdf": ["/path/to/mechanics/chapter_4_notes.pdf"],
+				"pdf": ["PDFs/Notes_ EM Unit 4 (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLmTjAoVV0TJktQLvQ3NUwChBdDhTrktt3&si=SRRgfCqY1ZnAp1cw"]
 			},
 			"U-5: Kinematics of Particle": {
-				"pdf": ["/path/to/mechanics/chapter_5_notes.pdf"],
+				"pdf": ["PDFs/Notes_ EM Unit 5 (1).pdf"],
 				"video": ["https://youtube.com/playlist?list=PLruTCQ0dsWzE0u8JMLzT-GkBk2C_yVNGe&si=sdt--jZThv-nGxvX","https://youtu.be/KnfGyKOppEY?si=meYZbrwArEWEyGmF"]
 			},
 			"U-6: Kinetics of Particle": {
