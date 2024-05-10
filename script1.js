@@ -54,7 +54,7 @@ const subjects = {
 		},
 	"SME": {
 			"U-1: Introduction of Energy Sources & its Conversion": {
-				"pdf": ["/path/to/sme/chapter_1_notes.pdf"],
+				"pdf": ["PDFs/SME Unit 1 - Introduction to Energy sources and its devices.pdf"],
 				"video": ["https://youtu.be/2n1WjLtavcA?si=-agNlUT_bKfNkB9c"]
 			},
 			"U-2: Introduction to Thermal Engineering": {
@@ -62,19 +62,19 @@ const subjects = {
 				"video": ["https://youtu.be/6ygfVthqP2Q?si=4hsJ90QugRas8Eim"]
 			},
 			"U-3 Vehicles and their Specifications": {
-				"pdf": ["/path/to/sme/chapter_3_notes.pdf"],
+				"pdf": ["PDFs/Unit 3 SME (1).pdf"],
 				"video": ["https://youtu.be/fXSszYTwkJw?si=AalgH_pBrcMEnNK9", "https://youtube.com/playlist?list=PLyIqv0Q_BYJpZv_Y3qc54V6JHzxX2Zftk&si=DXdw5NLlBw8SJlIQ"]
 			},
 			"U-4: Vehicle Systems": {
-				"pdf": ["/path/to/sme/chapter_4_notes.pdf"],
+				"pdf": ["PDFs/SME Unit 4 -Vehicle Systems (2).pdf"],
 				"video": ["https://youtu.be/QpDUL2PtYt0?si=t2w3hgHmeBDzeABH","https://youtube.com/playlist?list=PLBMT5NuGbsQ45TQbpphH8-IaIj4rJNcUf&si=b-PO-hwTFgSNOlRa"]
 			},
 			"U-5: Introduction to Manufacturing": {
-				"pdf": ["/path/to/sme/chapter_5_notes.pdf"],
+				"pdf": ["PDFs/Unit 05 Notes.pdf"],
 				"video": ["https://youtu.be/MXdReUmNO-c?si=XXvLQ8YCOxMSEQ8s"]
 			},
 			"U-6: Engineering Mechanisms and their Application in Domestic Appliances": {
-				"pdf": ["/path/to/sme/chapter_6_notes.pdf"],
+				"pdf": ["PDFs/Unit 06 Notes.pdf"],
 				"video": ["https://youtu.be/pDeopV-Dwgo?si=9IWR5iwLiduMyyVQ"]
 			}
 		},
