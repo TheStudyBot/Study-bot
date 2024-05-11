@@ -21,7 +21,7 @@ body {
 	width:35%;
     color: rgba(0,0,0,0.8); /* Set text color to white for better visibility */
     text-align: center; /* Center align the text */
-    padding: 10px; /* Add padding to vertically center the text */
+    
 	border-radius: 15px;
 	margin-left: auto;
 	margin-right: auto;
